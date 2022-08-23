@@ -1,7 +1,5 @@
 # Complate!
 
-## qrcode.py
-
 -Hi, I’m @Satrap18
 -I’m interested in programing
 -I’m currently learning django-sqlite
