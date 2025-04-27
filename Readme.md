@@ -46,7 +46,7 @@
 
 3. برنامه را اجرا کنید:
    ```bash
-   python qr_generator.py
+   python QRCode.py
    ```
 
 ## تصاویر از برنامه
